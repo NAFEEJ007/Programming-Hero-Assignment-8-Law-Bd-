@@ -1,0 +1,135 @@
+[
+  {
+    "id": "1",
+    "name": "Muhammad Shahriar Mannan",
+    "license": "BD-2020-001",
+    "experience": "7",
+    "consultation_fee": "Taka 5000",
+    "expertise": "Tax Law Expert",
+    "details": "Muhammad Shahriar Mannan is a specialist helping clients minimize liabilities and stay compliant. His experience includes representing individuals and corporations before tax authorities. He is valued for her precision, ethical standards, and strong grasp of Bangladesh’s tax policies.",
+    "image": "https://i.ibb.co.com/QGP0c9n/465735915-8889994894356818-2303738440033272517-n.jpg",
+    "availability": ["Sunday", "Monday"]
+    
+  },
+  {
+    "id": "2",
+    "name": "Thisia Perera",
+    "license": "BD-2020-002",
+    "experience": "10",
+    "consultation_fee": "Taka 10000",
+    "expertise": "Family Law Expert",
+    "details": "Thisia Perera brings compassion and clarity to complex family issues. She supports her clients through emotional legal challenges like divorce and custody, offering dependable advice and representation. Her approach ensures dignity, fairness, and protection of her clients’ family rights.",
+    "image": "https://i.ibb.co.com/qMFSKWYq/gettyimages-76132020-612x612.jpg",
+    "availability": ["Sunday", "Monday","Tuesday", "Wednesday", "Thursday","Friday","Saturday"]
+  },
+  {
+    "id": "3",
+    "name": "Williams Campo",
+    "license": "BD-2020-003",
+    "experience": "5",
+    "consultation_fee": "Taka 7000",
+    "expertise": "Corporate Law Expert",
+    "details": "Dee Williams offers strategic legal counsel to businesses, from startups to established firms. His expertise covers contracts, compliance, and corporate structuring. Rakin is known for his clear communication, efficient problem-solving, and dedication to securing clients’ business interests long-term.",
+    "image": "https://i.ibb.co.com/bMCfKcFn/3.jpg",
+    "availability": ["Monday", "Wednesday"]
+  },
+  {
+    "id": "4",
+    "name": "Antony Gonzalez",
+    "license": "BD-2020-004",
+    "experience": "8",
+    "consultation_fee": "Taka 5000",
+    "expertise": "Criminal Law Expert",
+    "details": "Antony Gonzalez is a Criminal law specialist helping clients minimize liabilities and stay compliant. Her experience includes representing individuals and corporations before tax authorities. She is valued for her precision, ethical standards, and strong grasp of Bangladesh’s tax policies.",
+    "image": "https://i.ibb.co.com/4C6v5DC/4.jpg",
+    "availability": ["Sunday", "Tuesday"]
+  },
+  {
+    "id": "5",
+    "name": "Por Favor Jack",
+    "license": "BD-2020-005",
+    "experience": "12",
+    "consultation_fee": "Taka 12000",
+    "expertise": "Civil Litigation Expert",
+    "details": "Por Favor Jack is a veteran in civil litigation with deep courtroom experience. He represents clients in land, contract, and commercial disputes. Mahmudul emphasizes careful case preparation and persuasive argumentation, always aiming for fair resolution through legal excellence and diligence.",
+    "image": "https://i.ibb.co.com/spYR5x3y/5.jpg",
+    "availability": ["Wednesday", "Thursday"]
+  },
+  {
+    "id": "6",
+    "name": "Andrew Chris",
+    "license": "BD-2020-006",
+    "experience": "9",
+    "consultation_fee": "Taka 10000",
+    "expertise": "Intellectual Property Expert",
+    "details": "Andrew Chris specializes in protecting innovations and brands. Her services cover trademarks, patents, copyrights, and IP litigation. She guides creators through legal processes with care and insight, ensuring that their intellectual assets remain secure in today’s competitive environment.",
+    "image": "https://i.ibb.co.com/DPx7CXRD/6.png",
+    "availability": ["Monday", "Thursday"]
+  },
+  {
+    "id": "7",
+    "name": "Rock Twine",
+    "license": "BD-2020-007",
+    "experience": "6",
+    "consultation_fee": "Taka 8000",
+    "expertise": "Environmental Law Expert",
+    "details": "Rock Twine focuses on environmental justice and legal sustainability. He advises on compliance, green policies, and litigates environmental harms. Jahidul supports NGOs and businesses alike, ensuring that development aligns with environmental responsibilities and national conservation laws of Bangladesh.",
+    "image": "https://i.ibb.co.com/ZRFtCQBJ/13.jpg",
+    "availability": ["Tuesday", "Thursday"]
+  },
+  {
+    "id": "8",
+    "name": "Albert Christian",
+    "license": "BD-2020-008",
+    "experience": "11",
+    "consultation_fee": "Taka 10000",
+    "expertise": "Labor Law Expert",
+    "details": "Albert Christian has extensive experience in labor law, handling disputes between employers and workers. Her services include contract drafting, grievance handling, and labor court representation. She is committed to protecting labor rights with fairness, empathy, and strong legal knowledge.",
+    "image": "https://i.ibb.co.com/FbknC45M/8.jpg",
+    "availability": ["Wednesday", "Friday"]
+  },
+  {
+    "id": "9",
+    "name": "William Hawkins",
+    "license": "BD-2020-009",
+    "experience": "4",
+    "consultation_fee": "Taka 6000",
+    "expertise": "Banking and Finance Law Expert",
+    "details": "William Hawkins advises clients on banking regulations, loan agreements, and investment disputes. His legal insights support secure financial transactions. Asif helps banks and individuals reduce risks and navigate complex legal frameworks effectively within the financial sector of Bangladesh.",
+    "image": "https://i.ibb.co.com/6Rj24L0H/9.jpg",
+    "availability": ["Sunday", "Tuesday"]
+  },
+  {
+    "id": "10",
+    "name": "John park",
+    "license": "BD-2020-010",
+    "experience": "13",
+    "consultation_fee": "Taka 12000",
+    "expertise": "Human Rights Law Expert",
+    "details": "John park advocates for fundamental human rights and social justice. She works with marginalized groups, handling abuse, discrimination, and legal access cases. Her work is grounded in empathy, dedication, and a vision for a more just legal system.",
+    "image": "https://i.ibb.co.com/N2RWLfr2/10.jpg",
+    "availability": ["Monday", "Thursday"]
+  },
+  {
+    "id": "11",
+    "name": "Vernon Angel",
+    "license": "BD-2020-011",
+    "experience": "3",
+    "consultation_fee": "Taka 5000",
+    "expertise": "Immigration Law Expert",
+    "details": "Vernon Angel supports clients through visa, immigration, and citizenship procedures. He works with families, workers, and students, ensuring legal clarity and successful applications. Kazi offers practical solutions with a human-centered approach in the evolving immigration landscape of Bangladesh.",
+    "image": "https://i.ibb.co.com/tTpVGfFc/11.jpg",
+    "availability": ["Friday", "Saturday"]
+  },
+  {
+    "id": "12",
+    "name": "Mark Osborne",
+    "license": "BD-2020-012",
+    "experience": "15",
+    "consultation_fee": "Taka 15000",
+    "expertise": "Constitutional Law Expert",
+    "details": "Mark Osborne defends constitutional rights and challenges unjust laws. Her work includes public interest litigation and government accountability. She is renowned for her eloquent advocacy and deep understanding of the Constitution’s role in shaping democratic justice in Bangladesh.",
+    "image": "https://i.ibb.co.com/KxYn8613/12.jpg",
+    "availability": ["Saturday", "Sunday"]
+  }
+]

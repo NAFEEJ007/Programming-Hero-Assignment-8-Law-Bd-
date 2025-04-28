@@ -1,0 +1,25 @@
+{
+    "questionsAndAnswers": [
+      {
+        "question": "What is useState and how does it work in React?",
+        "answer": "useState is a React hook that allows you to add state (variables) to your components. It works by initializing a state variable and providing a function to update it."
+      },
+      {
+        "question": "What is the purpose of useEffect in React?",
+        "answer": "useEffect is used to run side effects like data fetching, when a component renders."
+      },
+      {
+        "question": "What is a custom hook in React and when should you use one?",
+        "answer": "A custom hook is a function that lets you reuse stateful logic in different components. You should use one when you need to share logic between components without repeating code."
+      },
+      {
+        "question": "Difference between controlled and uncontrolled components. Which one is better?",
+        "answer": "A controlled component has its value managed by React state, while an uncontrolled component manages its own value. Controlled components are generally better because they provide more control over the component's state."
+      },
+      {
+        "question": "Tell us something about useFormStatus() in React.",
+        "answer": "useFormStatus() is a hook that helps manage the state of a form, like tracking whether the form is currently submitting or if it has been successfully submitted."
+      }
+    ]
+  }
+  
