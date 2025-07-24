@@ -1,6 +1,29 @@
-#Live Link: https://snazzy-sunflower-56220d.netlify.app/
+# Law.Bd ⚖️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A professional legal services platform where users can explore lawyers, view detailed profiles, book appointments, and read informative blog articles. The app features navigation, booking management with conflict checks, and data visualization of appointments.
+
+## 🔗 Live Site
+[[Your Live URL Here]](https://snazzy-sunflower-56220d.netlify.app/)
+
+## 🚀 Features
+- Responsive navbar and footer consistent across pages
+- Lawyer profiles displayed in grid with detailed view pages
+- Appointment booking with validation and toast notifications
+- Persistent bookings with localStorage and cancellation support
+- Blog section answering React-related questions with custom design
+- Data visualization of appointment fees using Recharts
+- Dynamic page titles and loading animations
+- Custom 404 error page with navigation back to home
+
+## 🛠️ Tech Stack
+- Frontend: React.js, React Router, Tailwind CSS
+- State & Animations: useState, useEffect, react-countup, Recharts
+- Storage: localStorage for persistent bookings
+
+## 📄 Project Summary
+Law.Bd offers a seamless way for users to find and book appointments with lawyers. It combines interactive UI components, real-time validation, and insightful visual data representation, ensuring an engaging and reliable user experience.
+
+
 
 Currently, two official plugins are available:
 
